@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-04-09'
 content_img_path: images/1.jpg
 layout: post
-thumb_img_path: images/unique-saturn.jpg
+thumb_img_path: images/2.jpg
 ---
 
 ![Hiking](/images/2.jpg)
